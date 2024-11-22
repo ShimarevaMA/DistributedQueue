@@ -1,6 +1,7 @@
-Создала интерфейс новой задачи - последовательно суммировать числа от 1 до 50
+Создала интерфейс новой задачи - последовательно суммировать числа от 1 до 50:
 [DistributedQueue.Common/Interface1.cs](https://github.com/ShimarevaMA/DistributedQueue/blob/58947ffe11393e2607b356175de86cdb83ef56a5/DistributedQueue.Common/Interface1.cs)
-Далее я реализовала метод
+
+Далее я реализовала метод:
 https://github.com/ShimarevaMA/DistributedQueue/blob/58947ffe11393e2607b356175de86cdb83ef56a5/DistributedQueue.Worker/Class1.cs
 
  где:
@@ -22,4 +23,5 @@ https://github.com/ShimarevaMA/DistributedQueue/blob/58947ffe11393e2607b356175de
     - После выхода из цикла, независимо от того, было ли завершено суммирование или оно было отменено, выводится сообщение о завершении задачи.
 
 В конце я назначила выполнение данной задачи на клавишу "R":
-DistributedQueue/Program.cs
+[DistributedQueue/Program.cs
+](https://github.com/ShimarevaMA/DistributedQueue/blob/a33cc676363901fa69a53caf925641436c20820e/DistributedQueue/Program.cs)
