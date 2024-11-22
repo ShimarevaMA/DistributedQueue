@@ -1,7 +1,7 @@
 Создала интерфейс новой задачи - последовательно суммировать числа от 1 до 50
-DistributedQueue.Common/Interface1.cs
+[DistributedQueue.Common/Interface1.cs](https://github.com/ShimarevaMA/DistributedQueue/blob/58947ffe11393e2607b356175de86cdb83ef56a5/DistributedQueue.Common/Interface1.cs)
 Далее я реализовала метод
-DistributedQueue.Worker/Class1.cs
+https://github.com/ShimarevaMA/DistributedQueue/blob/58947ffe11393e2607b356175de86cdb83ef56a5/DistributedQueue.Worker/Class1.cs
 
  где:
   - Task Sum50(string name, CancellationToken token): метод принимает два параметра — name, который может использоваться для идентификации вычисления, и token, который позволяет отменять выполнение задачи.
