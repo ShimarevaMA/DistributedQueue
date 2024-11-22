@@ -25,3 +25,6 @@ https://github.com/ShimarevaMA/DistributedQueue/blob/58947ffe11393e2607b356175de
 В конце я назначила выполнение данной задачи на клавишу "R":
 [DistributedQueue/Program.cs
 ](https://github.com/ShimarevaMA/DistributedQueue/blob/a33cc676363901fa69a53caf925641436c20820e/DistributedQueue/Program.cs)
+
+Вывод программы:
+![image](https://github.com/user-attachments/assets/2d877eb5-be60-4195-aecd-6eecaabb877d)
